@@ -3,7 +3,7 @@
 
 ## Description
 * Dynamic website Frontend built with HTML5, CSS3 and Bootstrap and JavaScript.
-* User can add todo, mark the same as completed and can delete.
+* User can add todo, can mark the same as completed and can delete if needed.
 
 ## Technologies Used
 * HTML5
@@ -11,4 +11,5 @@
 * Bootstrap 4
 * JavaScript
 ## View
-![image](https://user-images.githubusercontent.com/86845154/209130378-a80f3975-f349-49cc-999f-c5f370408fa2.png)
+![image](https://user-images.githubusercontent.com/86845154/209130668-0429c376-52e5-4209-a776-09c064680721.png)
+
